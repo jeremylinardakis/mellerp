@@ -1,4 +1,107 @@
 {
+  "15455432933412": {
+    "title": "DUCK TAPE SS TEE - BROWN",
+    "handle": "duck-tape-ss-tee-brown",
+    "variants": {
+      "67918654537764": true,
+      "67918654570532": true,
+      "67918654603300": true,
+      "67918654636068": true,
+      "67918654668836": true,
+      "67918654701604": true
+    }
+  },
+  "15455424774180": {
+    "title": "DUCK TAPE LS TEE - BLACK",
+    "handle": "duck-tape-ls-tee-black-copy",
+    "variants": {
+      "67918610923556": true,
+      "67918610956324": true,
+      "67918610989092": true,
+      "67918611021860": true,
+      "67918611054628": true,
+      "67918611087396": false
+    }
+  },
+  "15455416156196": {
+    "title": "STRETCH CANVAS ZIP TOTE - BLACK",
+    "handle": "stretch-canvas-zip-tote-black",
+    "variants": {
+      "67918572191780": true
+    }
+  },
+  "15455299895332": {
+    "title": "MELLOW OG LOGO THERMAL LS - BLACK",
+    "handle": "mellow-og-logo-thermal-ls-black",
+    "variants": {
+      "67917855326244": false,
+      "67917855359012": true,
+      "67917855391780": true,
+      "67917855424548": true,
+      "67917855457316": true,
+      "67917855490084": true
+    }
+  },
+  "15455299239972": {
+    "title": "MELLOW OG LOGO THERMAL LS - OPTIC WHITE",
+    "handle": "mellow-og-logo-thermal-ls-white",
+    "variants": {
+      "67917853753380": false,
+      "67917853786148": true,
+      "67917853818916": true,
+      "67917853851684": true,
+      "67917853884452": true,
+      "67917853917220": true
+    }
+  },
+  "15455298420772": {
+    "title": "BRAIN STEW SS CROPPED TEE - PLUM",
+    "handle": "brain-stew-ss-cropped-tee-plum",
+    "variants": {
+      "67917825736740": true,
+      "67917825769508": true,
+      "67917825802276": true,
+      "67917825835044": true,
+      "67917825867812": true,
+      "67917825900580": true
+    }
+  },
+  "15455296487460": {
+    "title": "BRAIN STEW SS CROPPED TEE - FIR GREEN",
+    "handle": "brain-stew-ss-cropped-tee-fir-green",
+    "variants": {
+      "67917815447588": true,
+      "67917815480356": true,
+      "67917815513124": true,
+      "67917815545892": true,
+      "67917815578660": true,
+      "67917815611428": true
+    }
+  },
+  "15454795726884": {
+    "title": "MELLOW OG STRETCH LOGO ZIP HOODIE - BLACK",
+    "handle": "mellow-og-stretch-logo-zip-hoodie-black",
+    "variants": {
+      "67915640340516": false,
+      "67915640373284": true,
+      "67915640406052": true,
+      "67915640438820": true,
+      "67915640471588": true,
+      "67915640504356": false
+    }
+  },
+  "15451757281316": {
+    "title": "MELLOW OG STRETCH LOGO ZIP HOODIE - HEATHER GREY",
+    "handle": "mellow-og-stretch-logo-zip-hoodie-heather-grey",
+    "variants": {
+      "67904958922788": true,
+      "67904958955556": true,
+      "67904958988324": true,
+      "67904959021092": false,
+      "67904959053860": true,
+      "67904959086628": false
+    }
+  },
   "8023025713194": {
     "title": "MELLOW X YETI RAMBLER 12 OZ TRAVEL BOTTLE - SILVER",
     "handle": "mellow-x-yeti-rambler-12-oz-travel-bottle-silver",
@@ -48,7 +151,7 @@
       "44758085107754": true,
       "44758085140522": true,
       "44758085173290": true,
-      "44758085206058": true
+      "44758085206058": false
     }
   },
   "8003018194986": {
@@ -70,7 +173,7 @@
       "44758045327402": false,
       "44758045360170": false,
       "44758045392938": true,
-      "44758045425706": true,
+      "44758045425706": false,
       "44758045458474": true,
       "44758045491242": false
     }
@@ -116,7 +219,7 @@
     "handle": "mellow-nu-logo-heavy-ss-tee-biome-green",
     "variants": {
       "44757973860394": true,
-      "44757973893162": true,
+      "44757973893162": false,
       "44757973925930": false,
       "44757973958698": false,
       "44757973991466": false,
@@ -140,10 +243,10 @@
     "handle": "go-climb-a-rock-ss-tee-navy",
     "variants": {
       "44757903736874": true,
-      "44757903769642": true,
+      "44757903769642": false,
       "44757903802410": true,
       "44757903835178": false,
-      "44757903867946": true,
+      "44757903867946": false,
       "44757903900714": false
     }
   },
@@ -155,7 +258,7 @@
       "44757881520170": true,
       "44757881552938": false,
       "44757881585706": false,
-      "44757881618474": true,
+      "44757881618474": false,
       "44757881651242": false
     }
   },
@@ -260,7 +363,7 @@
       "44655834136618": true,
       "44655834169386": true,
       "44655834202154": false,
-      "44655834234922": true,
+      "44655834234922": false,
       "44655834267690": false
     }
   },
@@ -529,7 +632,7 @@
     "title": "ROPE BANDANA",
     "handle": "bndana-rope",
     "variants": {
-      "43787383996458": true
+      "43787383996458": false
     }
   },
   "7728084680746": {
@@ -665,7 +768,7 @@
     "title": "ATHLETIC 6-PANEL HAT - BLACK",
     "handle": "athletic-6-panel-hat-black",
     "variants": {
-      "42757848694826": true
+      "42757848694826": false
     }
   },
   "7587056451626": {
