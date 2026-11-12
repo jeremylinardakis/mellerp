@@ -63,7 +63,7 @@
       "67917825802276": true,
       "67917825835044": true,
       "67917825867812": true,
-      "67917825900580": true
+      "67917825900580": false
     }
   },
   "15455296487460": {
@@ -206,7 +206,7 @@
     "title": "MELLOW N\u00DC LOGO HEAVY SS TEE - BROWN",
     "handle": "mellow-nu-logo-heavy-ss-tee-brown",
     "variants": {
-      "44757978021930": true,
+      "44757978021930": false,
       "44757978054698": true,
       "44757978087466": false,
       "44757978120234": false,
